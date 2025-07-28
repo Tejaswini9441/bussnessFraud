@@ -3,5 +3,7 @@ streamlit-option-menu
 pandas
 numpy
 scikit-learn
-
-
+folium
+streamlit-folium
+matplotlib
+altair
